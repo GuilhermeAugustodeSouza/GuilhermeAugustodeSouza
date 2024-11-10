@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá! Sou o Guilherme Augusto. 
+- Estou estudando front-end
+- Cursando ads 2º semestre
+ #
+  <div>
+   <a href='https://github.com/GuilhermeAugustodeSouza/guilhermeAugusto'>
+    <img src='https://github-readme-stats.vercel.app/api?username=GuilhermeAugustodeSouza&show_icons=true&theme=dark&include_all_commits=true&counts_private=true'</>
+  </div>
+ 
+  #
 
-<!--
-**GuilhermeAugustodeSouza/GuilhermeAugustodeSouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ <div>
+<img src= 'https://icongr.am/devicon/html5-original-wordmark.svg?size=66&color=currentColor'</img>
+<img src= 'https://icongr.am/devicon/css3-original-wordmark.svg?size=66&color=currentColor'</img>
+<img src= 'https://icongr.am/devicon/javascript-original.svg?size=54&color=currentColor' </img>
+ </div>
