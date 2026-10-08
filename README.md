@@ -9,12 +9,15 @@
  
   #
 
- <div>        
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" width:'30' height:'35' />
-                
-<img src= 'https://icongr.am/devicon/css3-original-wordmark.svg?size=66&color=currentColor'</img>
-<img src= 'https://icongr.am/devicon/javascript-original.svg?size=54&color=currentColor'</img
+ <div>  
+    <img width="150" height="150" alt="html5-original-wordmark" src="https://github.com/user-attachments/assets/3270137e-139f-4bea-8832-c0f41e712c80" />
+  <img src= 'https://icongr.am/devicon/css3-original-wordmark.svg?size=66&color=currentColor'</img>
+  <img width="150" height="150" alt="react-original-wordmark" src="https://github.com/user-attachments/assets/4ff0b178-305d-41a9-8faa-481e83b1c85a" />
+
+
+               
+
+
 
           
  </div>
