@@ -10,9 +10,11 @@
   #
 
  <div>        
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"</img>         
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" />
+                
 <img src= 'https://icongr.am/devicon/css3-original-wordmark.svg?size=66&color=currentColor'</img>
 <img src= 'https://icongr.am/devicon/javascript-original.svg?size=54&color=currentColor'</img
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg"</img>
+
           
  </div>
